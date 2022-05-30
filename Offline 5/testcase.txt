@@ -1,0 +1,3 @@
+f(x,y) = math.exp(x*y)*math.cos(x*y)
+y(0)=1
+x=0 to x=20
